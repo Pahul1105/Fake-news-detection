@@ -1,0 +1,32 @@
+# ===========================================
+# Fake News Detection System - Dependencies
+# ===========================================
+
+# Core ML/DL
+torch>=2.0.0
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+
+# NLP Processing
+nltk>=3.8.0
+spacy>=3.7.0
+
+# Sentiment Analysis
+vaderSentiment>=3.3.2
+textblob>=0.17.1
+
+# ML Utilities
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# LLM Integration
+openai>=1.0.0
+google-generativeai>=0.3.0
+
+# CLI & Logging
+rich>=13.0.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0

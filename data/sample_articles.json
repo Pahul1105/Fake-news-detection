@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "headline": "Government announces revised tax policy after review",
+        "body": "The Finance Ministry released new guidelines for the upcoming fiscal year. Officials stated that the changes aim to simplify compliance for small businesses while maintaining revenue targets.",
+        "expected_label": "REAL"
+    },
+    {
+        "id": 2,
+        "headline": "SHOCKING: Scientists EXPOSE secret government plan to DESTROY the economy overnight!",
+        "body": "Unnamed sources claim that a secret committee has been meeting to plan the total collapse of the financial system. Experts say this could happen as early as next week!",
+        "expected_label": "FAKE"
+    },
+    {
+        "id": 3,
+        "headline": "New study finds coffee may have health benefits",
+        "body": "Researchers at a leading university published findings suggesting that moderate coffee consumption may be associated with reduced risk of certain conditions. The study was peer-reviewed and published in a medical journal.",
+        "expected_label": "REAL"
+    },
+    {
+        "id": 4,
+        "headline": "URGENT: Doctors WARN that this common food is KILLING you slowly!",
+        "body": "You won't believe what's been hiding in your kitchen! This deadly ingredient is in almost everything you eat. Share this before it's too late!",
+        "expected_label": "FAKE"
+    }
+]
